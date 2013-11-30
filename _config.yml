@@ -1,0 +1,5 @@
+name:      Jekyll Test
+markdown:  redcarpet
+pygments:  true
+permalink: pretty
+url:       http://jordanmussi.github.io/Jekyll-Test
