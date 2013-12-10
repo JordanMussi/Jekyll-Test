@@ -3,6 +3,6 @@
 DirectoryIndex index.html
 
 RewriteEngine On
-RewriteBase /
+RewriteBase /Jekyll-Test/
 
 RewriteRule ^redirect.html test.html [R=301,L]
