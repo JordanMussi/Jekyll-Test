@@ -3,3 +3,4 @@ markdown:  redcarpet
 pygments:  true
 permalink: pretty
 url:       http://jordanmussi.github.io/Jekyll-Test
+include: [.htaccess]
